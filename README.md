@@ -47,7 +47,7 @@ Expandable for additional safety features</p><br>
     - Hardware components as listed</li>
   <li><strong>Setup</strong>:<br>
     - Assemble the hardware using the modular design<br>
-    - Upload the provided code from [Smaer Gas Guardian Aurdino Code](Code for Smart Gass Guardian 360.ino)<br>
+    - Upload the provided code from <b>[Code for Smart Gass Guardian 360.ino]</b><br>
     - Connect to a GSM network for alerts<br>
     - Power the system with backup support</li>
   <li><strong>Run</strong>:<br>
